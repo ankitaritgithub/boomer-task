@@ -1,6 +1,18 @@
 # Frontend
 
-
+Leaving Scrum:
+Date:  28-02-2025
+Tasks: QA agent
+work on  new figma development of welcome dashboared  section, login section , signup section, upload file section
+work on new figma development of chat conversation section
+work on integration of login and signup section
+Blog-> 
+Future Trends: The Evolving Landscape of SAP and Databricks Integration
+Task:-> AI Aviator
+work on content validation and ui  testing of the page of Ai Aviator
+Meeting:
+platform morning scrum call (15 min)
+platform evening scrum call (15 min)
 
 ## Getting started
 
